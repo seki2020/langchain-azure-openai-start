@@ -1,10 +1,10 @@
-# Using Azure OpenAI in LangChain
+# Using Azure OpenAI in LangChain :electric_plug:
 
 OpenAI's LLM is used by default in LangChain. in order for you to use Azure's Openai API in LangChain, I made this example.
 It can be used as a starting point for your project.
 
 
-## Running locally
+## Running locally :runner:
 1. clone the repo.
 2. run `pip install`
 3. Add `.env` file to the root directory with the following content:
